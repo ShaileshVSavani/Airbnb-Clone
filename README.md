@@ -1,4 +1,4 @@
-Here's a comprehensive `README.md` file for your Airbnb clone project:
+Here's a comprehensive `README.md` file for Airbnb clone project:
 
 ---
 
