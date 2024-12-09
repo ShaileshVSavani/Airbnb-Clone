@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for Airbnb clone project:
-
----
 
 # Airbnb Clone
 
@@ -37,7 +34,7 @@ This project is a full-stack implementation of an Airbnb-like platform, providin
 ## Live Demo
 
 Check out the live demo of the deployed application:  
-[Airbnb Clone Live Demo]()
+[Airbnb Clone Live Demo](https://airbnb-clone-theta-eosin.vercel.app/)
 
 ---
 
